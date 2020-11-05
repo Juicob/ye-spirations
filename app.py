@@ -51,7 +51,10 @@ def refresh_placeholder(n_intervals):
                     "how you feeling?",
                     "where do you want to go?",
                     "where's your favorite memory?",
-                    "what's your favorite drug?"]
+                    "what's your favorite drug?",
+                    "moods matter, what's yours?",
+                    "how do you feel when someone believes in you?",
+                    "how do you feel when you believe in yourself?"]
     placeholder = random.choice(placeholders)
     query_input = get_query_input(placeholder=placeholder)
     return query_input
