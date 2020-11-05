@@ -4,3 +4,7 @@
 **/.idea/
 venv/
 __pycache__/
+backend/unsplash.py
+.DS_Store
+**/.DS_Store
+test_functions.py
