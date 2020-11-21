@@ -8,6 +8,7 @@ I love hip hop.
 <br/>
 <br/>
 There's something about the headnodic beats and melodic exercise of word-smithing that furrows the brow and contorts the face in an expression of anguish that can only be acheived through a harmony of beats, rhymes, and life.
+<br/>
 
 You don't need to be a fan of hip-hop to experience the power of music. Stevie Wonder himself reminds us that it's, "... a language that we all understand." I happen to just have particular affinity for hip-hop, and an idea to channel these artist's lyrical genius in the form of inspirational posters.
 
@@ -21,7 +22,7 @@ All that is definitely true, but honestly, I just thought that shit would be hil
 </details>
 <br/>
 So let's just say that was the origin. If so, that song came out in....2011? Over the years there's been countless lines that have hit all the extremes of being
-<br/>
+<br/><br/>
 <details>
 <summary>Hilarious - "I love you like a fat kid love cake"</summary>
 
