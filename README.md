@@ -12,7 +12,7 @@ There's something about the headnodic beats and melodic exercise of word-smithin
 
 You don't need to be a fan of hip-hop to experience the power of music. Stevie Wonder himself reminds us that it's, "... a language that we all understand." I happen to just have particular affinity for hip-hop, and an idea to channel these artist's lyrical genius in the form of inspirational posters.
 
-All that is definitely true, but honestly, I just thought that shit would be hilarious. I don't know if this is the exact time I thoguht of it, but one of the lines I always go back is one of Weezy's, "... real G's move in silence like lasagna."
+All that is definitely true, but honestly, I just thought that shit would be hilarious. I don't know if this is the exact time I thought of it, but one of the lines I always go back is one of Weezy's, "... real G's move in silence like lasagna."
 <br/><br/>
 <details>
 <summary>What...?</summary>
